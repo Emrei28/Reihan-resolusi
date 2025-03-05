@@ -2,3 +2,4 @@ Reihan Resolusi
 -bisa bahasa inggris ke depanya
 -membuat web pribadi
 -membuat resolusi yang lebih baik
+-membuat berbagai fitur keren
